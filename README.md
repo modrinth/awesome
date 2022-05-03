@@ -29,6 +29,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[MultifoldLauncher/multifold](https://github.com/MultifoldLauncher/multifold)** - A work-in-progress cross-platform Minecraft launcher
 - **[PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)** - A power-user launcher for Minecraft that allows you to easily manage multiple installations at once
 - **[Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher)** - A Minecraft launcher focusing on modern UX and disk efficiency
+- **[QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft)** - A port of Minecraft: Java Edition to the Meta Quest Platform
 
 ## Libraries
 
