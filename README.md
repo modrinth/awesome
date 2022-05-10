@@ -70,9 +70,11 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 ### GUI
 
 - **[4JX/mCubed](https://github.com/4JX/mCubed)** - An experimental Minecraft mod manager
+- **[Blookerss/mdpkm](https://github.com/Blookerss/mdpkm)** - An all-in-one instance manager for Minecraft
 
 ### In-game
 
+- **[JustAlittleWolf/modpackLoaderFabric](https://github.com/JustAlittleWolf/modpackLoaderFabric)** ([Modrinth](https://modrinth.com/mod/modpackloaderfabric)) - Automatically checks for updates for installed mods via a JSON file
 - **[ModManagerMC/ModManager](https://github.com/ModManagerMC/ModManager)** ([Modrinth](https://modrinth.com/mod/modmanager)) - Extends [Mod Menu](https://modrinth.com/mod/mod-menu) with a new tab for installing, removing, and updating mods
 - **[ReviversMC/modget-minecraft](https://github.com/ReviversMC/modget-minecraft)** ([Modrinth](https://modrinth.com/mod/modget)) - Install mods via commands, search for updates, and much more
 - **[The-Tiny-Taters/Mod-Updater](https://github.com/The-Tiny-Taters/Mod-Updater)** - A command-based mod updater, perfect for servers
