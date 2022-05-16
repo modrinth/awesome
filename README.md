@@ -27,7 +27,8 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher)** - A launcher for Minecraft which allows you to download and install modpacks easily and quickly
 - **[modrinth/theseus](https://github.com/modrinth/theseus)** - The official Modrinth launcher which can be used as a CLI, GUI, and library
 - **[MultifoldLauncher/multifold](https://github.com/MultifoldLauncher/multifold)** - A work-in-progress cross-platform Minecraft launcher
-- **[PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)** - A power-user launcher for Minecraft that allows you to easily manage multiple installations at once
+- **[MultiMC/Launcher](https://github.com/MultiMC/Launcher)** - A power-user launcher for Minecraft that allows you to easily manage multiple installations at once
+- **[PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)** - A power-user launcher for Minecraft that allows you to easily manage multiple installations at once (fork of MultiMC)
 - **[QuestCraftPlusPlus/QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft)** - A port of Minecraft: Java Edition to the Meta Quest Platform
 - **[Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher)** - A Minecraft launcher focusing on modern UX and disk efficiency
 
