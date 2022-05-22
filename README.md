@@ -36,6 +36,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 
 - **[AndrewToaster/SharpRinth](https://github.com/AndrewToaster/SharpRinth)** - A Modrinth API wrapper for C#
 - **[EssentialMC/modrinth-rs](https://github.com/EssentialMC/modrinth-rs)** - A Rust wrapper for the Modrinth API
+- **[FlowArg/FlowUpdater](https://github.com/FlowArg/FlowUpdater)** - An open-source library to update Minecraft. Supports Modrinth and CurseForge for mods.
 - **[FoundationGames/modrinth-py](https://github.com/FoundationGames/modrinth-py)** - A Modrinth API wrapper and example Discord bot in Python
 - **[Jefaxe/Kilt](https://github.com/Jefaxe/Kilt)** - A Python library/API for downloading and interacting with Minecraft content
 - **[Minemobs/ModrinthJavaLib](https://github.com/Minemobs/ModrinthJavaLib)** - A Java library for accessing the Modrinth API
