@@ -31,6 +31,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)** - A power-user launcher for Minecraft that allows you to easily manage multiple installations at once (fork of MultiMC)
 - **[QuestCraftPlusPlus/QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft)** - A port of Minecraft: Java Edition to the Meta Quest Platform
 - **[Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher)** - A Minecraft launcher focusing on modern UX and disk efficiency
+- **[Jackzmc/craftymc](https://github.com/Jackzmc/craftymc)** - Yet another cross-platform launcher with a familar curseforge launcher design
 
 ## Libraries
 
