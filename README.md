@@ -1,4 +1,4 @@
-# Awesome Modrinth [![Awesome logo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re)
+# Awesome Modrinth [![Awesome logo](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@main/media/badge.svg)](https://awesome.re)
 
 **This is a collection of awesome open-source projects which use the Modrinth API in one way or another!** Use the generated table of contents to navigate, right next to where it says `README.md` just above. To avoid biases, all categories and entries within categories are sorted alphabetically (except for the [Miscellaneous](#miscellaneous) category).
 
@@ -13,7 +13,8 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[CraftVoltage/tiny-potato-bot](https://github.com/CraftVoltage/tiny-potato-bot)** - A useful bot for all things modded Minecraft
 - **[No767/Rin](https://github.com/No767/Rin)** - A bot with a command for searching mods on Modrinth
 - **[PaytonTheMartian/Neat](https://github.com/PaytonTheMartian/Neat)** - A bot with a command for looking up a mod
-- **[PinkGoosik/kitsun](https://github.com/PinkGoosik/kitsun)** - A bot designed to provide simple features for Minecraft modding-themed servers.
+- **[PinkGoosik/kitsun](https://github.com/PinkGoosik/kitsun)** - A bot designed to provide simple features for Minecraft modding-themed servers
+- **[The-Cutie-Corporation/ModrinthUpdatesBot](https://github.com/The-Cutie-Corporation/ModrinthUpdatesBot)** - A bot which tracks project updates
 - **[venashial/hermes](https://github.com/venashial/hermes)** ([Website](https://hermes-webhooks.herokuapp.com)) - A Modrinth webhook and RSS service
 
 ## Frontends
@@ -26,6 +27,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 
 - **[ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher)** - A launcher for Minecraft which allows you to download and install modpacks easily and quickly
 - **[Jackzmc/craftymc](https://github.com/Jackzmc/craftymc)** - Yet another cross-platform launcher with a familiar launcher design
+- **[huanghongxun/HMCL](https://github.com/huanghongxun/HMCL)** - A multi-functional, cross-platform Minecraft launcher
 - **[modrinth/theseus](https://github.com/modrinth/theseus)** - The official Modrinth launcher which can be used as a CLI, GUI, and library
 - **[MultifoldLauncher/multifold](https://github.com/MultifoldLauncher/multifold)** - A work-in-progress cross-platform Minecraft launcher
 - **[MultiMC/Launcher](https://github.com/MultiMC/Launcher)** - A power-user launcher for Minecraft that allows you to easily manage multiple installations at once
@@ -86,6 +88,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 
 - **[Kneelawk/PackVulcan](https://github.com/Kneelawk/PackVulcan)** - A GUI modpack builder for Modrinth and packwiz
 - **[packwiz/packwiz](https://github.com/packwiz/packwiz)** - A command line tool for editing and distributing Minecraft modpacks, supporting Modrinth and CurseForge
+- **[RozeFound/mmc-export](https://github.com/RozeFound/mmc-export)** - A tool for exporting a MultiMC modpack to other formats
 - **[shap-po/selene-modpacker](https://github.com/shap-po/selene-modpacker)** - A modpack creation browser extension allowing you to save mods from Modrinth and CurseForge to collections
 - **[Tom-The-Geek/pack-it](https://github.com/Tom-The-Geek/pack-it)** - A CLI tool for managing Minecraft mods
 
@@ -93,13 +96,15 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 
 - **[Kir-Antipov/mc-publish](https://github.com/Kir-Antipov/mc-publish)** - A GitHub Action for uploading versions to Modrinth, CurseForge, and GitHub
 - **[modrinth/minotaur](https://github.com/modrinth/minotaur)** - The official Gradle plugin for uploading versions to Modrinth
-- **[P03W/Modifold](https://github.com/P03W/Modifold)** - A Kotlin CLI tool for moving CurseForge mods to Modrinth
+- **[SilverAndro/Modifold](https://github.com/SilverAndro/Modifold)** - A Kotlin CLI tool for moving CurseForge mods to Modrinth
 
 ## Miscellaneous
 
 - **[AI-nsley69/true-all-of-fabric](https://github.com/AI-nsley69/true-all-of-fabric)** - A Python script to try and download as many Fabric mods as possible on a given Minecraft version from Modrinth
 - **[Andrew6rant/modrinth-downloadcount](https://github.com/Andrew6rant/modrinth-downloadcount)** - A Python script to print the total download count over all mods of a developer on Modrinth
+- **[astrooom/Minecraft-Serverpack-Installer](https://github.com/astrooom/Minecraft-Serverpack-Installer)** - A Python script made to install modpacks
 - **[badges/shields](https://github.com/badges/shields)** ([shields.io](https://shields.io/category/downloads)) - A badge generator with a badge for download totals on Modrinth projects
 - **[Infinidoge/nix-minecraft](https://github.com/Infinidoge/nix-minecraft)** - An attempt to better package and support Minecraft as part of the Nix ecosystem
+- **[Ketok4321/modrinth-statistics](https://github.com/Ketok4321/modrinth-statistics)** - A simple script for gathering statistics about mods on Modrinth
 - **[MCBanners/banner-api](https://github.com/MCBanners/banner-api)** ([mcbanners.com](https://mcbanners.com/modrinth)) - A banner generator with a banner for Modrinth project information
 - **[venashial/janus](https://github.com/venashial/janus)** ([Website](https://m.vena.sh)) - A URL shortener for Modrinth supporting projects, versions, and users
