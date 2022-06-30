@@ -10,6 +10,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 
 ## Discord bots/webhooks
 
+- **[beans-squared/modrunner-bot](https://github.com/beans-squared/modrunner-bot)** - A bot that allows both searching for and tracking updates for projects
 - **[CraftVoltage/tiny-potato-bot](https://github.com/CraftVoltage/tiny-potato-bot)** - A useful bot for all things modded Minecraft
 - **[No767/Rin](https://github.com/No767/Rin)** - A bot with a command for searching mods on Modrinth
 - **[PaytonTheMartian/Neat](https://github.com/PaytonTheMartian/Neat)** - A bot with a command for looking up a mod
