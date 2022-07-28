@@ -78,6 +78,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 
 - **[4JX/mCubed](https://github.com/4JX/mCubed)** - An experimental Minecraft mod manager
 - **[Blookerss/mdpkm](https://github.com/Blookerss/mdpkm)** - An all-in-one instance manager for Minecraft
+- **[ModdingX/Moonstone](https://github.com/ModdingX/Moonstone)** - An IntelliJ plugin for managing mod lists and installing mods directly from Modrinth or CurseForge.
 
 ### In-game
 
@@ -89,6 +90,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 ## Modpack creation tools
 
 - **[Kneelawk/PackVulcan](https://github.com/Kneelawk/PackVulcan)** - A GUI modpack builder for Modrinth and packwiz
+- **[ModdingX/ModGradle PackDev](https://github.com/ModdingX/ModGradle)** - A gradle plugin for creating and running forge modpacks with ForgeGradle.
 - **[packwiz/packwiz](https://github.com/packwiz/packwiz)** - A command line tool for editing and distributing Minecraft modpacks, supporting Modrinth and CurseForge
 - **[RozeFound/mmc-export](https://github.com/RozeFound/mmc-export)** - A tool for exporting a MultiMC modpack to other formats
 - **[shap-po/selene-modpacker](https://github.com/shap-po/selene-modpacker)** - A modpack creation browser extension allowing you to save mods from Modrinth and CurseForge to collections
