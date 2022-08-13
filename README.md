@@ -112,3 +112,4 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[Ketok4321/modrinth-statistics](https://github.com/Ketok4321/modrinth-statistics)** - A simple script for gathering statistics about mods on Modrinth
 - **[MCBanners/banner-api](https://github.com/MCBanners/banner-api)** ([mcbanners.com](https://mcbanners.com/modrinth)) - A banner generator with a banner for Modrinth project information
 - **[venashial/janus](https://github.com/venashial/janus)** ([Website](https://m.vena.sh)) - A URL shortener for Modrinth supporting projects, versions, and users
+- **[Gaming32/Superpack](https://github.com/Gaming32/Superpack)** - A standalone application for downloading Modrinth modpacks
