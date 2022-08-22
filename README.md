@@ -44,7 +44,6 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[FlowArg/FlowUpdater](https://github.com/FlowArg/FlowUpdater)** - An open-source library to update Minecraft. Supports Modrinth and CurseForge for mods.
 - **[FoundationGames/modrinth-py](https://github.com/FoundationGames/modrinth-py)** - A Modrinth API wrapper and example Discord bot in Python
 - **[Jefaxe/Kilt](https://github.com/Jefaxe/Kilt)** - A Python library/API for downloading and interacting with Minecraft content
-- **[Minemobs/ModrinthJavaLib](https://github.com/Minemobs/ModrinthJavaLib)** - A Java library for accessing the Modrinth API
 - **[theRookieCoder/ferinth](https://github.com/theRookieCoder/ferinth)** - A simple Rust library for the Modrinth API
 - **[Xemay/aiomodrinth](https://github.com/Xemay/aiomodrinth)** - Async Python API wrapper for Modrinth
 
