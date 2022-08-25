@@ -44,7 +44,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[FlowArg/FlowUpdater](https://github.com/FlowArg/FlowUpdater)** - An open-source library to update Minecraft. Supports Modrinth and CurseForge for mods.
 - **[FoundationGames/modrinth-py](https://github.com/FoundationGames/modrinth-py)** - A Modrinth API wrapper and example Discord bot in Python
 - **[Jefaxe/Kilt](https://github.com/Jefaxe/Kilt)** - A Python library/API for downloading and interacting with Minecraft content
-- **[theRookieCoder/ferinth](https://github.com/theRookieCoder/ferinth)** - A simple Rust library for the Modrinth API
+- **[gorilla-devs/ferinth](https://github.com/gorilla-devs/ferinth)** - A simple Rust wrapper for the official Modrinth API 
 - **[Xemay/aiomodrinth](https://github.com/Xemay/aiomodrinth)** - Async Python API wrapper for Modrinth
 
 ## Mod managers/updaters
@@ -66,7 +66,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[Senth/minecraft-mod-manager](https://github.com/Senth/minecraft-mod-manager)** - An application for installing and updating mods from Modrinth and CurseForge
 - **[tebibytemedia/hopper](https://github.com/tebibytemedia/hopper)** - A Minecraft mod manager for the terminal inspired by paru and topgrade
 - **[tezlm/modrinth-cli](https://github.com/tezlm/modrinth-cli)** - A CLI for managing mods downloaded from Modrinth
-- **[theRookieCoder/ferium](https://github.com/theRookieCoder/ferium)** - A Minecraft mod manager for mods from Modrinth, CurseForge, and GitHub Releases
+- **[gorilla-devs/ferium](https://github.com/gorilla-devs/ferium)** - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
 - **[tyra314/modweaver](https://github.com/tyra314/modweaver)** - A Minecraft mod manager using Modrinth and CurseForge
 - **[VasilisMylonas/talos](https://github.com/VasilisMylonas/talos)** - A script for downloading mods and their dependencies from Modrinth
 - **[vividuwu/Mercurius](https://github.com/vividuwu/Mercurius)** - A package/mod manager built for Modrinth's API
