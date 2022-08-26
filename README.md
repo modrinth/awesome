@@ -111,4 +111,5 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[Infinidoge/nix-minecraft](https://github.com/Infinidoge/nix-minecraft)** - An attempt to better package and support Minecraft as part of the Nix ecosystem
 - **[Ketok4321/modrinth-statistics](https://github.com/Ketok4321/modrinth-statistics)** - A simple script for gathering statistics about mods on Modrinth
 - **[MCBanners/banner-api](https://github.com/MCBanners/banner-api)** ([mcbanners.com](https://mcbanners.com/modrinth)) - A banner generator with a banner for Modrinth project information
+- **[ModdingX/ModListCreator](https://github.com/ModdingX/ModListCreator)** - A tool to create a nice looking modlist for modpacks, or a changelog by giving two modpack exports
 - **[venashial/janus](https://github.com/venashial/janus)** ([Website](https://m.vena.sh)) - A URL shortener for Modrinth supporting projects, versions, and users
