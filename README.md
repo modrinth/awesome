@@ -92,9 +92,9 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[ModdingX/ModGradle](https://github.com/ModdingX/ModGradle)** - A Gradle plugin for creating and running Forge modpacks with ForgeGradle.
 - **[packwiz/packwiz](https://github.com/packwiz/packwiz)** - A command line tool for editing and distributing Minecraft modpacks, supporting Modrinth and CurseForge
 - **[RozeFound/mmc-export](https://github.com/RozeFound/mmc-export)** - A tool for exporting a MultiMC modpack to other formats
+- **[ryanccn/moddermore](https://github.com/ryanccn/moddermore)** ([Website](https://moddermore.vercel.app)) - A web app for creating public lists of mods exportable to `mrpack`s
 - **[shap-po/selene-modpacker](https://github.com/shap-po/selene-modpacker)** - A modpack creation browser extension allowing you to save mods from Modrinth and CurseForge to collections
 - **[Tom-The-Geek/pack-it](https://github.com/Tom-The-Geek/pack-it)** - A CLI tool for managing Minecraft mods
-- **[Moddermore](https://moddermore.vercel.app?ref=modrinthawesome)** - A web app for creating public lists of mods exportable to `mrpack`s
 
 ## Project/version management tools
 
