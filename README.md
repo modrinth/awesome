@@ -63,6 +63,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[it0946/emd](https://github.com/it0946/emd)** - A simple program for downloading Minecraft mods
 - **[jakobkmar/pacmc](https://github.com/jakobkmar/pacmc)** - An easy-to-use package manager for Minecraft mods
 - **[MrNavaStar/ModMan](https://github.com/MrNavaStar/ModMan)** - An easy-to-use Minecraft mod manager
+- **[nothub/mrpack-install](https://github.com/nothub/mrpack-install)** - Modrinth Modpack server deployment
 - **[rtfcv/modrinthUpdater](https://github.com/rtfcv/modrinthUpdater)** - A Python script for pulling updates from Modrinth
 - **[Senth/minecraft-mod-manager](https://github.com/Senth/minecraft-mod-manager)** - An application for installing and updating mods from Modrinth and CurseForge
 - **[tebibytemedia/hopper](https://github.com/tebibytemedia/hopper)** - A Minecraft mod manager for the terminal inspired by paru and topgrade
