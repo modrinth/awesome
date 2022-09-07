@@ -108,6 +108,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[Andrew6rant/modrinth-downloadcount](https://github.com/Andrew6rant/modrinth-downloadcount)** - A Python script to print the total download count over all mods of a developer on Modrinth
 - **[astrooom/Minecraft-Serverpack-Installer](https://github.com/astrooom/Minecraft-Serverpack-Installer)** - A Python script made to install modpacks
 - **[badges/shields](https://github.com/badges/shields)** ([shields.io](https://shields.io/category/downloads)) - A badge generator with a badge for download totals on Modrinth projects
+- **[devBoi76/modrinthify](https://github.com/devBoi76/modrinthify)** - A browser extension to automatically redirect CurseForge projects to Modrinth whenever possible
 - **[Gaming32/Superpack](https://github.com/Gaming32/Superpack)** - A standalone application for downloading Modrinth modpacks
 - **[Infinidoge/nix-minecraft](https://github.com/Infinidoge/nix-minecraft)** - An attempt to better package and support Minecraft as part of the Nix ecosystem
 - **[Ketok4321/modrinth-statistics](https://github.com/Ketok4321/modrinth-statistics)** - A simple script for gathering statistics about mods on Modrinth
