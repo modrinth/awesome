@@ -110,6 +110,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[badges/shields](https://github.com/badges/shields)** ([shields.io](https://shields.io/category/downloads)) - A badge generator with a badge for download totals on Modrinth projects
 - **[Gaming32/Superpack](https://github.com/Gaming32/Superpack)** - A standalone application for downloading Modrinth modpacks
 - **[Infinidoge/nix-minecraft](https://github.com/Infinidoge/nix-minecraft)** - An attempt to better package and support Minecraft as part of the Nix ecosystem
+- **[devBoi76/modrinthify](https://github.com/devBoi76/modrinthify)** - A browser extension to automatically redirect Curseforge projects to Modrinth whenever possible
 - **[Ketok4321/modrinth-statistics](https://github.com/Ketok4321/modrinth-statistics)** - A simple script for gathering statistics about mods on Modrinth
 - **[MCBanners/banner-api](https://github.com/MCBanners/banner-api)** ([mcbanners.com](https://mcbanners.com/modrinth)) - A banner generator with a banner for Modrinth project information
 - **[ModdingX/ModListCreator](https://github.com/ModdingX/ModListCreator)** - A tool to create a nice looking modlist for modpacks, or a changelog by giving two modpack exports
