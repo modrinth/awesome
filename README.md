@@ -46,6 +46,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[gorilla-devs/ferinth](https://github.com/gorilla-devs/ferinth)** - A simple Rust wrapper for the official Modrinth API
 - **[Jefaxe/Kilt](https://github.com/Jefaxe/Kilt)** - A Python library/API for downloading and interacting with Minecraft content
 - **[Xemay/aiomodrinth](https://github.com/Xemay/aiomodrinth)** - Async Python API wrapper for Modrinth
+- **[Zechiax/Modrinth.RestClient](https://github.com/Zechiax/Modrinth.RestClient)** - A Modrinth API wrapper using RestEase for C# 
 
 ## Mod managers/updaters
 
