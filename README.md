@@ -17,6 +17,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[PinkGoosik/kitsun](https://github.com/PinkGoosik/kitsun)** - A bot designed to provide simple features for Minecraft modding-themed servers
 - **[The-Cutie-Corporation/ModrinthUpdatesBot](https://github.com/The-Cutie-Corporation/ModrinthUpdatesBot)** - A bot which tracks project updates
 - **[venashial/hermes](https://github.com/venashial/hermes)** ([Website](https://hermes-webhooks.herokuapp.com)) - A Modrinth webhook and RSS service
+- **[Deftu/DeftuDownloadCounter](https://github.com/Deftu/DeftuDownloadCounter)** - A (self-hosted) bot which tracks download milestones (100, 200, 1000, 2000, etc)
 
 ## Frontends
 
