@@ -13,7 +13,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[beans-squared/modrunner-bot](https://github.com/beans-squared/modrunner-bot)** - A bot that allows both searching for and tracking updates for projects
 - **[CraftVoltage/tiny-potato-bot](https://github.com/CraftVoltage/tiny-potato-bot)** - A useful bot for all things modded Minecraft
 - **[Deftu/DeftuDownloadCounter](https://github.com/Deftu/DeftuDownloadCounter)** - A (self-hosted) bot which tracks download milestones (100, 200, 1000, 2000, etc)
-- **[HyacinthBots/Allium](https://github.com/HyacinthBots/Allium)** - A bot with a mappings extension to search Minecraft Mappings or just search modrinth projects.
+- **[HyacinthBots/Allium](https://github.com/HyacinthBots/Allium)** - A bot with a mappings extension to search Minecraft Mappings or just Modrinth projects.
 - **[No767/Rin](https://github.com/No767/Rin)** - A bot with a command for searching mods on Modrinth
 - **[PaytonTheMartian/Neat](https://github.com/PaytonTheMartian/Neat)** - A bot with a command for looking up a mod
 - **[PinkGoosik/kitsun](https://github.com/PinkGoosik/kitsun)** - A bot designed to provide simple features for Minecraft modding-themed servers
