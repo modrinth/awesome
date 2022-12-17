@@ -25,6 +25,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[glossnyx/pathfindr](https://github.com/glossnyx/pathfindr)** ([Website](https://pathfindr.vercel.app)) - A minimal frontend for Modrinth
 - **[mithunb9/ModrinthModList](https://github.com/mithunb9/ModrinthModList)** ([Website](https://modrinth-mod-list.vercel.app)) - A creator for lists of mods
 - **[modrinth/knossos](https://github.com/modrinth/knossos)** ([Website](https://modrinth.com)) - The official Modrinth frontend we're all familiar with
+- **[TheClashFruit/Rithle](https://github.com/TheClashFruit/Rithle)** - An Android app for Modrinth written in Kotlin.
 
 ## Launchers
 
