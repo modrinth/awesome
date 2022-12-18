@@ -48,6 +48,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[FoundationGames/modrinth-py](https://github.com/FoundationGames/modrinth-py)** - A Modrinth API wrapper and example Discord bot in Python
 - **[gorilla-devs/ferinth](https://github.com/gorilla-devs/ferinth)** - A simple Rust wrapper for the official Modrinth API
 - **[Jefaxe/Kilt](https://github.com/Jefaxe/Kilt)** - A Python library/API for downloading and interacting with Minecraft content
+- **[masecla22/Modrinth4J](https://github.com/masecla22/Modrinth4J)** - A fluent CompletableFuture-based Java wrapper for the Modrinth API
 - **[Xemay/aiomodrinth](https://github.com/Xemay/aiomodrinth)** - Async Python API wrapper for Modrinth
 - **[Zechiax/Modrinth.RestClient](https://github.com/Zechiax/Modrinth.RestClient)** - A Modrinth API wrapper using RestEase for C# 
 
