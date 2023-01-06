@@ -75,6 +75,7 @@ Feel free to add your own project(s) -- just fork and make a pull request! We su
 - **[tebibytemedia/hopper](https://github.com/tebibytemedia/hopper)** - A Minecraft mod manager for the terminal inspired by paru and topgrade
 - **[tezlm/modrinth-cli](https://github.com/tezlm/modrinth-cli)** - A CLI for managing mods downloaded from Modrinth
 - **[tyra314/modweaver](https://github.com/tyra314/modweaver)** - A Minecraft mod manager using Modrinth and CurseForge
+- **[un-pogaz/MC-Modrinth-Project-Manager](https://github.com/un-pogaz/MC-Modrinth-Project-Manager)** - A simple Python CLI Project Manager for Minecraft and Modrinth. Support Mods, Resource Packs, Shaders, Data Packs.
 - **[VasilisMylonas/talos](https://github.com/VasilisMylonas/talos)** - A script for downloading mods and their dependencies from Modrinth
 - **[vividuwu/Mercurius](https://github.com/vividuwu/Mercurius)** - A package/mod manager built for Modrinth's API
 - **[vivyir/rintha](https://github.com/vivyir/rintha)** - A mod manager using Modrinth with support for multiple profiles
