@@ -95,7 +95,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 
 - **[AI-nsley69/true-all-of-fabric](https://github.com/AI-nsley69/true-all-of-fabric)** - A Python script to try and download as many Fabric mods as possible on a given Minecraft version from Modrinth
 - **[astrooom/Minecraft-Serverpack-Installer](https://github.com/astrooom/Minecraft-Serverpack-Installer)** - A Python script made to install modpacks
-- **[badges/shields](https://github.com/badges/shields)** ([shields.io](https://shields.io)) - A badge generator with a badge for download totals on Modrinth projects
+- **[badges/shields](https://github.com/badges/shields)** ([shields.io](https://shields.io)) - A badge generator with multiple badges for showing information from Modrinth
 - **[devBoi76/modrinthify](https://github.com/devBoi76/modrinthify)** - A browser extension to automatically redirect CurseForge projects to Modrinth whenever possible
 - **[Gaming32/Superpack](https://github.com/Gaming32/Superpack)** - A standalone application for downloading Modrinth modpacks
 - **[Infinidoge/nix-minecraft](https://github.com/Infinidoge/nix-minecraft)** - An attempt to better package and support Minecraft as part of the Nix ecosystem
