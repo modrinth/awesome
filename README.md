@@ -16,6 +16,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[No767/Rin](https://github.com/No767/Rin)** - A bot with a command for searching mods on Modrinth
 - **[PinkGoosik/kitsun](https://github.com/PinkGoosik/kitsun)** - A bot designed to provide simple features for Minecraft modding-themed servers
 - **[The-Cutie-Corporation/ModrinthUpdatesBot](https://github.com/The-Cutie-Corporation/ModrinthUpdatesBot)** - A bot which tracks project updates
+- **[Zechiax/Asterion](https://github.com/Zechiax/Asterion)** - A Discord bot that provides easy access to the Modrinth platform and helps you stay updated with your favorite projects
 
 ## Frontends
 
