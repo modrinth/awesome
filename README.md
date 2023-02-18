@@ -42,7 +42,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[gorilla-devs/ferinth](https://github.com/gorilla-devs/ferinth)** - A simple Rust wrapper for the official Modrinth API
 - **[masecla22/Modrinth4J](https://github.com/masecla22/Modrinth4J)** - A fluent CompletableFuture-based Java wrapper for the Modrinth API
 - **[Xemay/aiomodrinth](https://github.com/Xemay/aiomodrinth)** - Async Python API wrapper for Modrinth
-- **[Zechiax/Modrinth.RestClient](https://github.com/Zechiax/Modrinth.RestClient)** - A Modrinth API wrapper using RestEase for C# 
+- **[Zechiax/Modrinth.Net](https://github.com/Zechiax/Modrinth.Net)** - A Modrinth API wrapper for C# 
 
 ## Mod managers/updaters
 
