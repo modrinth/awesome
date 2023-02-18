@@ -50,6 +50,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 
 - **[Aetopia/modpkg](https://github.com/Aetopia/modpkg)** - A simple mod manager for Modrinth
 - **[amodi04/MinecraftModUpdater](https://github.com/amodi04/MinecraftModUpdater)** - A small Python script to help update and download Modrinth mods
+- **[tympanicblock61/modrinth-downloader](https://github.com/tympanicblock61/modrinth-downloader)** - A small Python script to auto download Modrinth mods
 - **[Brogramming-Inc/Minebrew](https://github.com/Brogramming-Inc/Minebrew)** - A package manager for Minecraft mods hosted on Modrinth
 - **[Encrypted-Thoughts/ModManager](https://github.com/Encrypted-Thoughts/ModManager)** - A tool to help manage and update Minecraft mods
 - **[Fxomt-III/Minecraft-package-manager](https://github.com/Fxomt-III/Minecraft-package-manager)** - A mod manager for Minecraft
