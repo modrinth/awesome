@@ -50,7 +50,6 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 
 - **[Aetopia/modpkg](https://github.com/Aetopia/modpkg)** - A simple mod manager for Modrinth
 - **[amodi04/MinecraftModUpdater](https://github.com/amodi04/MinecraftModUpdater)** - A small Python script to help update and download Modrinth mods
-- **[tympanicblock61/modrinth-downloader](https://github.com/tympanicblock61/modrinth-downloader)** - A small Python script to auto download Modrinth mods
 - **[Brogramming-Inc/Minebrew](https://github.com/Brogramming-Inc/Minebrew)** - A package manager for Minecraft mods hosted on Modrinth
 - **[Encrypted-Thoughts/ModManager](https://github.com/Encrypted-Thoughts/ModManager)** - A tool to help manage and update Minecraft mods
 - **[Fxomt-III/Minecraft-package-manager](https://github.com/Fxomt-III/Minecraft-package-manager)** - A mod manager for Minecraft
@@ -62,6 +61,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[nothub/mrpack-install](https://github.com/nothub/mrpack-install)** - Modrinth Modpack server deployment
 - **[rotgruengelb/modrinth.modpack-to-mcinstance](https://github.com/rotgruengelb/modrinth.modpack-to-mcinstance)** - Convert a .mrpack into a Minecraft Default Launcher Instance and automatically downloads everything that needs downloading.
 - **[tebibytemedia/hopper](https://github.com/tebibytemedia/hopper)** - A Minecraft mod manager for the terminal inspired by paru and topgrade
+- **[tympanicblock61/modrinth-downloader](https://github.com/tympanicblock61/modrinth-downloader)** - A small Python script to auto download Modrinth mods
 - **[un-pogaz/MC-Modrinth-Project-Manager](https://github.com/un-pogaz/MC-Modrinth-Project-Manager)** - A simple Python CLI Project Manager for Minecraft and Modrinth. Support Mods, Resource Packs, Shaders, Data Packs.
 - **[VasilisMylonas/talos](https://github.com/VasilisMylonas/talos)** - A script for downloading mods and their dependencies from Modrinth
 - **[vividuwu/Mercurius](https://github.com/vividuwu/Mercurius)** - A package/mod manager built for Modrinth's API
