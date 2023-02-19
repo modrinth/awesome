@@ -75,8 +75,8 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 
 ### In-game
 
-- **[JustAlittleWolf/modpackLoaderFabric](https://github.com/JustAlittleWolf/modpackLoaderFabric)** ([Modrinth](https://modrinth.com/mod/modpackloaderfabric)) - Automatically checks for updates for installed mods via a JSON file
-- **[ReviversMC/modget-minecraft](https://github.com/ReviversMC/modget-minecraft)** ([Modrinth](https://modrinth.com/mod/modget)) - Install mods via commands, search for updates, and much more
+- **[JustAlittleWolf/modpackLoaderFabric](https://github.com/JustAlittleWolf/modpackLoaderFabric)** - Automatically checks for updates for installed mods via a JSON file
+- **[TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu)** ([Modrinth](https://modrinth.com/mod/modmenu)) - The leading mod for seeing all of your installed mods for Fabric and Quilt has a Modrinth update checker built-in
 
 ## Modpack creation tools
 
