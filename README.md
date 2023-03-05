@@ -40,6 +40,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[EssentialMC/modrinth-rs](https://github.com/EssentialMC/modrinth-rs)** - A Rust wrapper for the Modrinth API
 - **[FlowArg/FlowUpdater](https://github.com/FlowArg/FlowUpdater)** - An open-source library to update Minecraft. Supports Modrinth and CurseForge for mods.
 - **[gorilla-devs/ferinth](https://github.com/gorilla-devs/ferinth)** - A simple Rust wrapper for the official Modrinth API
+- **[hihiqy1/modrinth_api_dart](https://github.com/hihiqy1/modrinth_api_dart)** - An unofficial Modrinth API wrapper library for the Dart programming language.
 - **[masecla22/Modrinth4J](https://github.com/masecla22/Modrinth4J)** - A fluent CompletableFuture-based Java wrapper for the Modrinth API
 - **[Xemay/aiomodrinth](https://github.com/Xemay/aiomodrinth)** - Async Python API wrapper for Modrinth
 - **[Zechiax/Modrinth.Net](https://github.com/Zechiax/Modrinth.Net)** - A Modrinth API wrapper for C# 
