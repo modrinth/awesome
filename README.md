@@ -93,6 +93,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[Kir-Antipov/mc-publish](https://github.com/Kir-Antipov/mc-publish)** - A GitHub Action for uploading versions to Modrinth, CurseForge, and GitHub
 - **[modrinth/minotaur](https://github.com/modrinth/minotaur)** - The official Gradle plugin for uploading versions to Modrinth
 - **[SilverAndro/Modifold](https://github.com/SilverAndro/Modifold)** - A Kotlin CLI tool for moving CurseForge mods to Modrinth
+- **[firstdarkdev/modpublisher](https://github.com/firstdarkdev/modpublisher)** - A Gradle plugin to upload mods to Modrinth, CurseForge and Github
 
 ## Miscellaneous
 
