@@ -72,8 +72,8 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 
 - **[4JX/mCubed](https://github.com/4JX/mCubed)** - An experimental Minecraft mod manager
 - **[Blookerss/mdpkm](https://github.com/Blookerss/mdpkm)** - An all-in-one instance manager for Minecraft
-- **[ModdingX/Moonstone](https://github.com/ModdingX/Moonstone)** - An IntelliJ plugin for managing mod lists and installing mods directly from Modrinth or CurseForge
 - **[IsAvaible/AngularModUpdater](https://github.com/IsAvaible/AngularModUpdater)** - An easy-to-use website to find updates for and migrate mods based on file hashes
+- **[ModdingX/Moonstone](https://github.com/ModdingX/Moonstone)** - An IntelliJ plugin for managing mod lists and installing mods directly from Modrinth or CurseForge
 
 ### In-game
 
