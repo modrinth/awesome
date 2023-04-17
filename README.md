@@ -20,9 +20,9 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 
 ## Frontends
 
+- **[mineblock11/android-modrinth-dashboard](https://github.com/mineblock11/android-modrinth-dashboard)** - An Android app for the Modrinth dashboard written in Vue
 - **[modrinth/knossos](https://github.com/modrinth/knossos)** ([Website](https://modrinth.com)) - The official Modrinth frontend we're all familiar with
-- **[TheClashFruit/Rithle](https://github.com/TheClashFruit/Rithle)** - An Android app for Modrinth written in Kotlin.
-- **[mineblock11/android-modrinth-dashboard](https://github.com/mineblock11/android-modrinth-dashboard)** - An android app for the Modrinth dashboard written in Vue using Capacitor.
+- **[TheClashFruit/Rithle](https://github.com/TheClashFruit/Rithle)** - An Android app for Modrinth written in Kotlin
 
 ## Launchers
 
