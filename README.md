@@ -85,7 +85,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 ## Modpack creation tools
 
 - **[Kneelawk/PackVulcan](https://github.com/Kneelawk/PackVulcan)** - A GUI modpack builder for Modrinth and packwiz
-- **[ModdingX/PackDev](https://github.com/ModdingX/PackDev)** - A Gradle plugin for creating and running modpacks using ForgeGradle or loom.
+- **[ModdingX/PackDev](https://github.com/ModdingX/PackDev)** - A Gradle plugin for creating and running modpacks using ForgeGradle or Loom.
 - **[packwiz/packwiz](https://github.com/packwiz/packwiz)** - A command line tool for editing and distributing Minecraft modpacks, supporting Modrinth and CurseForge
 - **[RozeFound/mmc-export](https://github.com/RozeFound/mmc-export)** - A tool for exporting a MultiMC modpack to other formats
 - **[ryanccn/moddermore](https://github.com/ryanccn/moddermore)** ([Website](https://moddermore.vercel.app)) - A web app for creating public lists of mods exportable to `mrpack`s
