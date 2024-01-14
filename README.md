@@ -95,6 +95,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 
 ## Project/version management tools
 
+- **[cloudnode-pro/modrinth-publish](https://github.com/cloudnode-pro/modrinth-publish)** - A GitHub Action for publishing plugin versions to Modrinth 
 - **[firstdarkdev/modpublisher](https://github.com/firstdarkdev/modpublisher)** - A Gradle plugin to upload mods to Modrinth, CurseForge and GitHub
 - **[funnyboy-roks/modrinth-auto-desc](https://github.com/funnyboy-roks/modrinth-auto-desc)** ([GitHub Marketplace](https://github.com/marketplace/actions/modrinth-auto-description)) - Automatically update Modrinth description and project settings from a GitHub repository
 - **[Kir-Antipov/mc-publish](https://github.com/Kir-Antipov/mc-publish)** - A GitHub Action for uploading versions to Modrinth, CurseForge, and GitHub
