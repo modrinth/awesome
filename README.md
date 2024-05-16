@@ -113,3 +113,4 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[MCBanners/banner-api](https://github.com/MCBanners/banner-api)** ([mcbanners.com](https://mcbanners.com/modrinth)) - A banner generator with a banner for Modrinth project information
 - **[ModdingX/ModListCreator](https://github.com/ModdingX/ModListCreator)** - A tool to create a nice looking modlist for modpacks, or a changelog by giving two modpack exports
 - **[relitrix/mic](https://github.com/relitrix/mic)** - A tool for checking .jar(s) integrity with Modrinth API.
+- **[worldwidepixel/blueRinth](https://github.com/worldwidepixel/blueRinth/)** - A browser extension that lets you change the brand color of modrinth.com
