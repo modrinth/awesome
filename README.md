@@ -63,7 +63,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[MrNavaStar/ModMan](https://github.com/MrNavaStar/ModMan)** - An easy-to-use Minecraft mod manager
 - **[nothub/mrpack-install](https://github.com/nothub/mrpack-install)** - Modrinth Modpack server deployment
 - **[ParadigmMC/mcman](https://github.com/ParadigmMC/mcman)** - A git-compatible, config-based Minecraft server management CLI that supports many sources
-- **[rotgruengelb/modrinth.modpack-to-mcinstance](https://github.com/rotgruengelb/modrinth.modpack-to-mcinstance)** - Convert a .mrpack into a Minecraft Default Launcher Instance and automatically downloads everything that needs downloading.
+- **[rotgruengelb/mrpack2instance](https://github.com/rotgruengelb/mrpack2instance)** - Convert a .mrpack into a Minecraft Default Launcher Instance and automatically downloads everything that needs downloading.
 - **[tebibytemedia/hopper](https://github.com/tebibytemedia/hopper)** - A Minecraft mod manager for the terminal inspired by paru and topgrade
 - **[tympanicblock61/modrinth-downloader](https://github.com/tympanicblock61/modrinth-downloader)** - A small Python script to auto download Modrinth mods
 - **[un-pogaz/MC-Modrinth-Project-Manager](https://github.com/un-pogaz/MC-Modrinth-Project-Manager)** - A simple Python CLI Project Manager for Minecraft and Modrinth. Support Mods, Resource Packs, Shaders, Data Packs.
