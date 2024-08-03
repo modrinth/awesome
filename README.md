@@ -51,6 +51,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 
 ### CLI
 
+- **[aayushdutt/modrinth-collection-downloader](https://github.com/aayushdutt/modrinth-collection-downloader)** - Script to download and update mods from a Modrinth Collection
 - **[Aetopia/modpkg](https://github.com/Aetopia/modpkg)** - A simple mod manager for Modrinth
 - **[amodi04/MinecraftModUpdater](https://github.com/amodi04/MinecraftModUpdater)** - A small Python script to help update and download Modrinth mods
 - **[Brogramming-Inc/Minebrew](https://github.com/Brogramming-Inc/Minebrew)** - A package manager for Minecraft mods hosted on Modrinth
