@@ -30,7 +30,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher)** - A launcher for Minecraft which allows you to download and install modpacks easily and quickly
 - **[Jackzmc/craftymc](https://github.com/Jackzmc/craftymc)** - Yet another cross-platform launcher with a familiar launcher design
 - **[huanghongxun/HMCL](https://github.com/huanghongxun/HMCL)** - A multi-functional, cross-platform Minecraft launcher
-- **[jfmods/inceptum](https://gitlab.com/jfmods/inceptum)** - An advanced launcher, server launcher and mod manager for Minecraft
+- **[jfmods/inceptum](https://git.frohnmeyer-wds.de/JfMods/Inceptum)** - An advanced launcher, server launcher and mod manager for Minecraft
 - **[modrinth/theseus](https://github.com/modrinth/theseus)** - The official Modrinth launcher which can be used as a CLI, GUI, and library
 - **[MultiMC/Launcher](https://github.com/MultiMC/Launcher)** - A power-user launcher for Minecraft that allows you to easily manage multiple installations at once
 - **[PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)** - A power-user launcher for Minecraft that allows you to easily manage multiple installations at once (fork of MultiMC)
