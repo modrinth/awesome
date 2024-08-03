@@ -11,9 +11,9 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 ## Discord bots/webhooks
 
 - **[modrunner/discord-bot](https://github.com/modrunner/discord-bot)** - A bot that allows both searching for and tracking updates for projects
-- **[Deftu/DeftuDownloadCounter](https://github.com/Deftu/DeftuDownloadCounter)** - A (self-hosted) bot which tracks download milestones (100, 200, 1000, 2000, etc)
+- **[Deftu/DeftuDownloadCounter](https://github.com/Deftu/DeftuDownloadCounter)** (archived) - A (self-hosted) bot which tracks download milestones (100, 200, 1000, 2000, etc)
 - **[HyacinthBots/Allium](https://github.com/HyacinthBots/Allium)** - A bot with a mappings extension to search Minecraft Mappings or just Modrinth projects.
-- **[No767/Rin](https://github.com/No767/Rin)** - A bot with a command for searching mods on Modrinth
+- **[No767/Rin](https://github.com/No767/Rin)** (archived) - A bot with a command for searching mods on Modrinth
 - **[PinkGoosik/kitsun](https://github.com/PinkGoosik/kitsun)** - A bot designed to provide simple features for Minecraft modding-themed servers
 - **[The-Cutie-Corporation/ModrinthUpdatesBot](https://github.com/The-Cutie-Corporation/ModrinthUpdatesBot)** - A bot which tracks project updates
 - **[Zechiax/Asterion](https://github.com/Zechiax/Asterion)** - A Discord bot that provides easy access to the Modrinth platform and helps you stay updated with your favorite projects
