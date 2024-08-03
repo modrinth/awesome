@@ -57,7 +57,6 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[Brogramming-Inc/Minebrew](https://github.com/Brogramming-Inc/Minebrew)** - A package manager for Minecraft mods hosted on Modrinth
 - **[calliecameron/mc-mod-compatibility](https://github.com/calliecameron/mc-mod-compatibility)** - A script to check whether Minecraft modpacks are compatible with newer game versions
 - **[Encrypted-Thoughts/ModManager](https://github.com/Encrypted-Thoughts/ModManager)** - A tool to help manage and update Minecraft mods
-- **[Fxomt-III/Minecraft-package-manager](https://github.com/Fxomt-III/Minecraft-package-manager)** - A mod manager for Minecraft
 - **[gorilla-devs/ferium](https://github.com/gorilla-devs/ferium)** - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
 - **[IshimiMC/ishimi](https://github.com/IshimiMC/ishimi)** - A mod manager for Minecraft
 - **[it0946/emd](https://github.com/it0946/emd)** - A simple program for downloading Minecraft mods
