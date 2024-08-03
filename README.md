@@ -80,7 +80,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 
 - **[Skidam/AutoModpack](https://github.com/Skidamek/AutoModpack)** ([Modrinth](https://modrinth.com/mod/automodpack)) - A seamless in-game modpack installer designed for ease of use on private servers.
 - **[DeDiamondPro/Resourcify](https://github.com/DeDiamondPro/Resourcify)** ([Modrinth](https://modrinth.com/mod/resourcify)) - An in-game resource pack browser
-- **[JustAlittleWolf/modpackLoaderFabric](https://github.com/JustAlittleWolf/modpackLoaderFabric)** - Automatically checks for updates for installed mods via a JSON file
+- **[JustAlittleWolf/modpackLoaderFabric](https://github.com/JustAlittleWolf/modpackLoaderFabric)** (archived) - Automatically checks for updates for installed mods via a JSON file
 - **[TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu)** ([Modrinth](https://modrinth.com/mod/modmenu)) - The leading mod for seeing all of your installed mods for Fabric and Quilt has a Modrinth update checker built-in
 
 ## Modpack creation tools
