@@ -101,7 +101,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[HSGamer/MCReleaser](https://github.com/HSGamer/MCReleaser)** - A program to publish artifacts to multiple Minecraft-related platforms
 - **[Kir-Antipov/mc-publish](https://github.com/Kir-Antipov/mc-publish)** - A GitHub Action for uploading versions to Modrinth, CurseForge, and GitHub
 - **[modrinth/minotaur](https://github.com/modrinth/minotaur)** - The official Gradle plugin for uploading versions to Modrinth
-- **[SilverAndro/Modifold](https://github.com/SilverAndro/Modifold)** - A Kotlin CLI tool for moving CurseForge mods to Modrinth
+- **[SilverAndro/Modifold](https://github.com/SilverAndro/Modifold)** (archived) - A Kotlin CLI tool for moving CurseForge mods to Modrinth
 
 ## Miscellaneous
 
