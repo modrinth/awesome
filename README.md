@@ -24,6 +24,8 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[worldwidepixel/modbar](https://github.com/worldwidepixel/modbar)** - A Chrome and Firefox extension which lets you search Modrinth from your titlebar
 - **[modrinth/code/apps/frontend](https://github.com/modrinth/code/tree/main/apps/frontend)** ([Website](https://modrinth.com)) - The official Modrinth frontend we're all familiar with
 - **[TheClashFruit/Rithle](https://github.com/TheClashFruit/Rithle)** - An Android app for Modrinth written in Kotlin
+-
+**[onlive1337/ModForge AI](https://github.com/onlive1337/ModForge-Ai)** - ModForge AI is an intelligent Minecraft modpack generator that uses AI and Modrinth api to create customized modpacks based on user descriptions.
 
 ## Launchers
 
