@@ -100,7 +100,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[SilverAndro/Modifold](https://github.com/SilverAndro/Modifold)** (archived) - A Kotlin CLI tool for moving CurseForge mods to Modrinth
 - **[firstdarkdev/modpublisher](https://github.com/firstdarkdev/modpublisher)** - A Gradle plugin to upload mods to Modrinth, CurseForge and GitHub
 - **[funnyboy-roks/modrinth-auto-desc](https://github.com/funnyboy-roks/modrinth-auto-desc)** ([GitHub Marketplace](https://github.com/marketplace/actions/modrinth-auto-description)) - Automatically update Modrinth description and project settings from a GitHub repository
-- **[cloudnode-pro/modrinth-publish](https://github.com/cloudnode-pro/modrinth-publish)** - A GitHub Action for publishing plugin versions to Modrinth 
+- **[cloudnode-pro/modrinth-publish](https://github.com/cloudnode-pro/modrinth-publish)** - ([GitHub Marketplace](https://github.com/marketplace/actions/modrinth-publish)) - A GitHub Action for publishing versions on Modrinth. Works for all Modrinth project types. 
 - **[HSGamer/MCReleaser](https://github.com/HSGamer/MCReleaser)** - A program to publish artifacts to multiple Minecraft-related platforms
 
 ## Miscellaneous
