@@ -89,6 +89,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[Kneelawk/PackVulcan](https://github.com/Kneelawk/PackVulcan)** - A GUI modpack builder for Modrinth and packwiz
 - **[packwiz/packwiz](https://github.com/packwiz/packwiz)** - A command line tool for editing and distributing Minecraft modpacks, supporting Modrinth and CurseForge
 - **[juraj-hrivnak/Pakku](https://github.com/juraj-hrivnak/Pakku)** - A multiplatform modpack manager for Minecraft: Java Edition. Create modpacks for CurseForge, Modrinth or both simultaneously.
+- **[Kenny-Hui/PW-GUI](https://github.com/Kenny-Hui/PW-GUI/)** - A GUI modpack builder for editing and distributing Minecraft modpacks using packwiz, supporting Modrinth and CurseForge.
 - **[RozeFound/mmc-export](https://github.com/RozeFound/mmc-export)** - A tool for exporting a MultiMC modpack to other formats
 - **[ryanccn/moddermore](https://github.com/ryanccn/moddermore)** ([Website](https://moddermore.vercel.app)) - A web app for creating public lists of mods exportable to `mrpack`s
 - **[sbokyzahodi/modpack-constructor](https://github.com/SbokyZahodi/modpack-constructor)** ([Website](https://modpack-constructor.vercel.app)) - Simple minecraft modpack constructor in browser for Modrinth
