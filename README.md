@@ -111,12 +111,12 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 ## Miscellaneous
 
 - **[MCBanners/banner-api](https://github.com/MCBanners/banner-api)** ([mcbanners.com](https://mcbanners.com/modrinth)) - A banner generator with a banner for Modrinth project information
-- **[creeperkatze/modrinth-embeds](https://github.com/creeperkatze/modrinth-embeds)** ([modrinth-embeds.creeperkatze.de](https://modrinth-embeds.creeperkatze.de)) - A flexible, reusable and fast embed generator for all things Modrinth. Get styled details about a user, project, organization or collection.
 - **[relitrix/mic](https://github.com/relitrix/mic)** - A tool for checking .jar(s) integrity with Modrinth API.
 - **[astrooom/Minecraft-Serverpack-Installer](https://github.com/astrooom/Minecraft-Serverpack-Installer)** - A Python script made to install modpacks
 - **[ModdingX/ModListCreator](https://github.com/ModdingX/ModListCreator)** - A tool to create a nice looking modlist for modpacks, or a changelog by giving two modpack exports
 - **[TheBossMagnus/ModpackChangelogger](https://github.com/TheBossMagnus/ModpackChangelogger)** - A powerful and customizable Python tool to generate a changelog between two Minecraft modpacks in modrinth.mrpack or curseforge.zip format.
 - **[devBoi76/modrinthify](https://github.com/devBoi76/modrinthify)** - A browser extension to automatically redirect CurseForge projects to Modrinth whenever possible
+- **[creeperkatze/modrinth-embeds](https://github.com/creeperkatze/modrinth-embeds)** ([modrinth-embeds.creeperkatze.de](https://modrinth-embeds.creeperkatze.de)) - A flexible, reusable and fast embed generator for all things Modrinth. Get styled details about a user, project, organization or collection.
 - **[Raycast Extension - Modrinth Search](https://www.raycast.com/legenden/modrinth-search)** - A raycast extension that makes searching modrinth for projects available at your hand.
 - **[Ketok4321/modrinth-statistics](https://github.com/Ketok4321/modrinth-statistics)** - A simple script for gathering statistics about mods on Modrinth
 - **[Infinidoge/nix-minecraft](https://github.com/Infinidoge/nix-minecraft)** - An attempt to better package and support Minecraft as part of the Nix ecosystem
