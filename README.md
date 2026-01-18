@@ -110,8 +110,8 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 
 ## Miscellaneous
 
-- **[creeperkatze/modrinth-embeds](https://github.com/creeperkatze/modrinth-embeds)** ([modrinth-embeds.creeperkatze.de](https://modrinth-embeds.creeperkatze.de)) - A flexible, reusable and fast embed generator for all things Modrinth. Get styled details about a user, project, organization or collection.
 - **[MCBanners/banner-api](https://github.com/MCBanners/banner-api)** ([mcbanners.com](https://mcbanners.com/modrinth)) - A banner generator with a banner for Modrinth project information
+- **[creeperkatze/modrinth-embeds](https://github.com/creeperkatze/modrinth-embeds)** ([modrinth-embeds.creeperkatze.de](https://modrinth-embeds.creeperkatze.de)) - A flexible, reusable and fast embed generator for all things Modrinth. Get styled details about a user, project, organization or collection.
 - **[relitrix/mic](https://github.com/relitrix/mic)** - A tool for checking .jar(s) integrity with Modrinth API.
 - **[astrooom/Minecraft-Serverpack-Installer](https://github.com/astrooom/Minecraft-Serverpack-Installer)** - A Python script made to install modpacks
 - **[ModdingX/ModListCreator](https://github.com/ModdingX/ModListCreator)** - A tool to create a nice looking modlist for modpacks, or a changelog by giving two modpack exports
