@@ -105,11 +105,12 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[SilverAndro/Modifold](https://github.com/SilverAndro/Modifold)** (archived) - A Kotlin CLI tool for moving CurseForge mods to Modrinth
 - **[firstdarkdev/modpublisher](https://github.com/firstdarkdev/modpublisher)** - A Gradle plugin to upload mods to Modrinth, CurseForge and GitHub
 - **[funnyboy-roks/modrinth-auto-desc](https://github.com/funnyboy-roks/modrinth-auto-desc)** ([GitHub Marketplace](https://github.com/marketplace/actions/modrinth-auto-description)) - Automatically update Modrinth description and project settings from a GitHub repository
-- **[cloudnode-pro/modrinth-publish](https://github.com/cloudnode-pro/modrinth-publish)** - ([GitHub Marketplace](https://github.com/marketplace/actions/modrinth-publish)) - A GitHub Action for publishing versions on Modrinth. Works for all Modrinth project types. 
+- **[cloudnode-pro/modrinth-publish](https://github.com/cloudnode-pro/modrinth-publish)** - ([GitHub Marketplace](https://github.com/marketplace/actions/modrinth-publish)) - A GitHub Action for publishing versions on Modrinth. Works for all Modrinth project types.
 - **[HSGamer/MCReleaser](https://github.com/HSGamer/MCReleaser)** - A program to publish artifacts to multiple Minecraft-related platforms
 
 ## Miscellaneous
 
+- **[creeperkatze/modrinth-embeds](https://github.com/creeperkatze/modrinth-embeds)** ([modrinth-embeds.creeperkatze.de](https://modrinth-embeds.creeperkatze.de)) - A flexible, reusable and fast embed generator for all things Modrinth. Get styled details about a user, project, organization or collection.
 - **[MCBanners/banner-api](https://github.com/MCBanners/banner-api)** ([mcbanners.com](https://mcbanners.com/modrinth)) - A banner generator with a banner for Modrinth project information
 - **[relitrix/mic](https://github.com/relitrix/mic)** - A tool for checking .jar(s) integrity with Modrinth API.
 - **[astrooom/Minecraft-Serverpack-Installer](https://github.com/astrooom/Minecraft-Serverpack-Installer)** - A Python script made to install modpacks
@@ -122,6 +123,3 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[badges/shields](https://github.com/badges/shields)** ([shields.io](https://shields.io)) - A badge generator with multiple badges for showing information from Modrinth
 - **[Gaming32/Superpack](https://github.com/Gaming32/Superpack)** - A standalone application for downloading Modrinth modpacks
 - **[AI-nsley69/true-all-of-fabric](https://github.com/AI-nsley69/true-all-of-fabric)** - A Python script to try and download as many Fabric mods as possible on a given Minecraft version from Modrinth
-
-
-
