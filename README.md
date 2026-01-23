@@ -19,7 +19,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[No767/Rin](https://github.com/No767/Rin)** (archived) - A bot with a command for searching mods on Modrinth
 
 ## Frontends
-
+- **[devlune-dev/modrinth-api-playground](https://github.com/devlune-dev/modrinth-api-playground)** - An unofficial interactive web playground for exploring the Modrinth REST API with live requests and code snippets.
 - **[mineblock11/android-modrinth-dashboard](https://github.com/mineblock11/android-modrinth-dashboard)** - An Android app for the Modrinth dashboard written in Vue
 - **[worldwidepixel/modbar](https://github.com/worldwidepixel/modbar)** - A Chrome and Firefox extension which lets you search Modrinth from your titlebar
 - **[modrinth/code/apps/frontend](https://github.com/modrinth/code/tree/main/apps/frontend)** ([Website](https://modrinth.com)) - The official Modrinth frontend we're all familiar with
