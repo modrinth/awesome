@@ -73,6 +73,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[nothub/mrpack-install](https://github.com/nothub/mrpack-install)** - Modrinth Modpack server deployment
 - **[rotgruengelb/mrpack2instance](https://github.com/rotgruengelb/mrpack2instance)** - Convert a .mrpack into a Minecraft Default Launcher Instance and automatically downloads everything that needs downloading.
 - **[jakobkmar/pacmc](https://github.com/jakobkmar/pacmc)** - An easy-to-use package manager for Minecraft mods
+- **[Josiah-Jarvis/mcmu](https://github.com/Josiah-Jarvis/MCMU)** - A basic mod installer and updater for Minecraft mods
 
 ### GUI
 
