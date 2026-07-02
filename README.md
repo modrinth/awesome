@@ -107,6 +107,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[funnyboy-roks/modrinth-auto-desc](https://github.com/funnyboy-roks/modrinth-auto-desc)** ([GitHub Marketplace](https://github.com/marketplace/actions/modrinth-auto-description)) - Automatically update Modrinth description and project settings from a GitHub repository
 - **[cloudnode-pro/modrinth-publish](https://github.com/cloudnode-pro/modrinth-publish)** - ([GitHub Marketplace](https://github.com/marketplace/actions/modrinth-publish)) - A GitHub Action for publishing versions on Modrinth. Works for all Modrinth project types.
 - **[HSGamer/MCReleaser](https://github.com/HSGamer/MCReleaser)** - A program to publish artifacts to multiple Minecraft-related platforms
+- **[404Setup/ModPublish](https://github.com/404Setup/ModPublish)** - Quickly publish your Minecraft mods to multiple mod hosting sites using Jetbrains IDEA.
 
 ## Miscellaneous
 
