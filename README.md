@@ -22,6 +22,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 
 - **[mineblock11/android-modrinth-dashboard](https://github.com/mineblock11/android-modrinth-dashboard)** - An Android app for the Modrinth dashboard written in Vue
 - **[worldwidepixel/modbar](https://github.com/worldwidepixel/modbar)** - A Chrome and Firefox extension which lets you search Modrinth from your titlebar
+- **[creeperkatze/modrinth-extras](https://github.com/creeperkatze/modrinth-extras)** ([Chrome](https://chromewebstore.google.com/detail/modrinth-extras/ajmkilipadfpaefpcjfgnkejalmhdlcj)) ([Firefox](https://addons.mozilla.org/firefox/addon/modrinth-extras/)) ([Edge](https://microsoftedge.microsoft.com/addons/detail/modrinth-extras/jkfgnimibfpoohbmaibjdjdmfnjmbjcj)) - A browser extension that enhances Modrinth on the website and beyond
 - **[modrinth/code/apps/frontend](https://github.com/modrinth/code/tree/main/apps/frontend)** ([Website](https://modrinth.com)) - The official Modrinth frontend we're all familiar with
 - **[TheClashFruit/Rithle](https://github.com/TheClashFruit/Rithle)** - An Android app for Modrinth written in Kotlin
 
