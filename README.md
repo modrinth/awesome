@@ -31,6 +31,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher)** - A launcher for Minecraft which allows you to download and install modpacks easily and quickly
 - **[Jackzmc/craftymc](https://github.com/Jackzmc/craftymc)** - Yet another cross-platform launcher with a familiar launcher design
 - **[jfmods/inceptum](https://git.frohnmeyer-wds.de/JfMods/Inceptum)** - An advanced launcher, server launcher and mod manager for Minecraft
+- **[MartianLauncher](https://github.com/foxstudio-201/VoxelXClient)** - A modern cross-platform Minecraft launcher with multi-account support, multiple instance management, and concurrent launching
 - **[modrinth/code/apps/app](https://github.com/modrinth/code/tree/main/apps/app)** - The official Modrinth launcher which can be used as a CLI, GUI, and library
 - **[MultiMC/Launcher](https://github.com/MultiMC/Launcher)** - A power-user launcher for Minecraft that allows you to easily manage multiple installations at once
 - **[d3ara1n/Polymerium](https://github.com/d3ara1n/Polymerium)** - A next-generation Minecraft instance manager that thinks differently about game management
