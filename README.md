@@ -15,6 +15,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[Deftu/DeftuDownloadCounter](https://github.com/Deftu/DeftuDownloadCounter)** (archived) - A (self-hosted) bot which tracks download milestones (100, 200, 1000, 2000, etc)
 - **[modrunner/discord-bot](https://github.com/modrunner/discord-bot)** - A bot that allows both searching for and tracking updates for projects
 - **[PinkGoosik/kitsun](https://github.com/PinkGoosik/kitsun)** - A bot designed to provide simple features for Minecraft modding-themed servers
+- **[creeperkatze/modrinth-scout](https://github.com/creeperkatze/modrinth-scout)** ([Top.gg](https://top.gg/bot/1496760658732122152)) - A Discord bot for discovering, exploring and tracking projects on Modrinth
 - **[The-Cutie-Corporation/ModrinthUpdatesBot](https://github.com/The-Cutie-Corporation/ModrinthUpdatesBot)** - A bot which tracks project updates
 - **[No767/Rin](https://github.com/No767/Rin)** (archived) - A bot with a command for searching mods on Modrinth
 
