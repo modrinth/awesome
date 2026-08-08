@@ -77,6 +77,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 
 ### GUI
 
+- **[BryantWelch/mcmodupdate.app](https://github.com/BryantWelch/mcmodupdate.app)** ([Website](https://mcmodupdate.app)) - A browser-based Minecraft mod updater that finds compatible Modrinth versions and resolves dependencies
 - **[IsAvaible/AngularModUpdater](https://github.com/IsAvaible/AngularModUpdater)** - An easy-to-use website to find updates for and migrate mods based on file hashes
 - **[4JX/mCubed](https://github.com/4JX/mCubed)** - An experimental Minecraft mod manager
 - **[ModdingX/Moonstone](https://github.com/ModdingX/Moonstone)** - An IntelliJ plugin for managing mod lists and installing mods directly from Modrinth or CurseForge
