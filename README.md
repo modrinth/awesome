@@ -101,6 +101,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[sbokyzahodi/modpack-constructor](https://github.com/SbokyZahodi/modpack-constructor)** ([Website](https://modpack-constructor.vercel.app)) - Simple minecraft modpack constructor in browser for Modrinth
 - **[shap-po/selene-modpacker](https://github.com/shap-po/selene-modpacker)** - A modpack creation browser extension allowing you to save mods from Modrinth and CurseForge to collections
 - **[DanyCDev/modrinth-collection-web-download](https://github.com/DanyCDev/modrinth-collection-web-download)** ([Website](https://md.dkg.sk)) - A tool for downloading a Modrinth collection as a single .zip file, entirely from your browser.
+- **[zhuhongliang-mkt/mrpack-converter-site](https://github.com/zhuhongliang-mkt/mrpack-converter-site)** ([Website](https://mrpackconverter.com)) - A browser-based toolkit for converting, inspecting, and troubleshooting Modrinth `.mrpack` files.
 
 ## Project/version management tools
 
