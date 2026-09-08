@@ -54,6 +54,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 
 ### CLI
 
+- **[tomatopotato17265/clinth](https://github.com/tomatopotato17265/clinth)** - A CLI made in Rust for browsing, installing, and managing content on Modrinth
 - **[it0946/emd](https://github.com/it0946/emd)** - A simple program for downloading Minecraft mods
 - **[gorilla-devs/ferium](https://github.com/gorilla-devs/ferium)** - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
 - **[IshimiMC/ishimi](https://github.com/IshimiMC/ishimi)** - A mod manager for Minecraft
