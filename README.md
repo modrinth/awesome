@@ -84,6 +84,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 ### In-game
 
 - **[Skidam/AutoModpack](https://github.com/Skidamek/AutoModpack)** ([Modrinth](https://modrinth.com/mod/automodpack)) - A seamless in-game modpack installer designed for ease of use on private servers.
+- **[VulpineFriend87/Catalog](https://github.com/VulpineFriend87/Catalog)** ([Modrinth](https://modrinth.com/plugin/catalog)) - A Modrinth plugin manager for Paper, with automatic updates and dependency management
 - **[TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu)** ([Modrinth](https://modrinth.com/mod/modmenu)) - The leading mod for seeing all of your installed mods for Fabric and Quilt has a Modrinth update checker built-in
 - **[JustAlittleWolf/modpackLoaderFabric](https://github.com/JustAlittleWolf/modpackLoaderFabric)** (archived) - Automatically checks for updates for installed mods via a JSON file
 - **[DeDiamondPro/Resourcify](https://github.com/DeDiamondPro/Resourcify)** ([Modrinth](https://modrinth.com/mod/resourcify)) - An in-game resource pack browser
