@@ -28,6 +28,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 
 ## Launchers
 
+- **[brksfrb/arctic-launcher](https://github.com/brksfrb/arctic-launcher)** ([Website](https://arcticlauncher.com)) - A native Minecraft launcher written in Rust that installs Modrinth mods, modpacks, resource packs and shaders, and imports instances from other launchers
 - **[ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher)** - A launcher for Minecraft which allows you to download and install modpacks easily and quickly
 - **[Jackzmc/craftymc](https://github.com/Jackzmc/craftymc)** - Yet another cross-platform launcher with a familiar launcher design
 - **[jfmods/inceptum](https://git.frohnmeyer-wds.de/JfMods/Inceptum)** - An advanced launcher, server launcher and mod manager for Minecraft
